@@ -1,0 +1,9 @@
+
+header{color: red}
+footer{background: red}
+#informacion2, #comandos2, #login2, #link_patata, #link_discord, #discord2{font-size: 30px}
+.agrupar{border: solid black;}
+#navegacion{font-size: 22px}
+#login2, #comandos2, #informacion2, #discord2, #link_patata, #link_discord{text-align: center;}
+.agrupar{width: 1200px; margin: auto; padding: 40px; background: wheat;}
+.header{background: #7fff00 ;text-align: center; font-size: 30px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; border: solid black}
