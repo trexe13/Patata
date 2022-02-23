@@ -1,2 +1,2 @@
-# Patata trexe discord bot
-discord bot
+# Patata discord bot
+trexe
